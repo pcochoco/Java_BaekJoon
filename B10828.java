@@ -12,6 +12,7 @@ public class B10828 {
         int N=sc.nextInt(); //명령어의 개수 
         stack=new int[N];
 
+        
         for(int i=0;i<N;i++){
             String inst=sc.next(); //명령어 입력 
 

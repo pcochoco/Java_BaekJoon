@@ -8,7 +8,7 @@ public class B10773 {
         int n;
         K=sc.nextInt(); //주어지는 정수의 개수 
         Stack<Integer> stack=new Stack<Integer>(); //integer 형태 stack 선언 
-   
+        //
 
         for(int i=0;i<K;i++){ 
             n=sc.nextInt(); //K번 동안 정수 입력받음 
